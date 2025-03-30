@@ -5,3 +5,5 @@ opencv-python
 pillow
 flask-cors
 werkzeug
+google-generativeai
+gunicorn
