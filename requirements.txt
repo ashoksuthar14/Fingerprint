@@ -7,3 +7,4 @@ flask-cors
 werkzeug
 google-generativeai
 gunicorn
+scipy
